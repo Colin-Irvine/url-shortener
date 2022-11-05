@@ -6,3 +6,6 @@ build
 
 # Ignore CDK npm install dependencies
 cdk/node_modules
+
+# Ignore cdk synth outputs
+cdk/cdk.out
